@@ -1,4 +1,4 @@
-[TimeWave Netlify Deployed Link](https://timewave.netlify.app/)
+[TimeWave Netlify Deployed Link](https://timewave-test.netlify.app/)
 
 ## Timewave Home Front End Screening Challenge
 
