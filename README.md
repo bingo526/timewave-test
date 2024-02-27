@@ -9,6 +9,7 @@
 - React
 - lightweight-charts
 - react-spinners
+- tailwindcss
 - TypeScript
 
 ## Structure
